@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Crush application</string>
+    <string name = "tv.setText"> Magic EightBall says </string>
+    <string-array name= "eightBall_array">
+        <item> 6 months to live </item>
+        <item> True love will find you </item>
+        <item> Riches will come your way  </item>
+        <item> Your face looks like a monkeys ass </item>
+        <item> Scram ugly  </item>
+        <item> You will motor boat Pamela Anderson</item>
+        <item> Donald Trump is your father</item>
+        <item> Condoleezza rice is your mom</item>
+        <item> You will steal a pot  of gold </item>
+        <item> Purple Kush is your friend </item>
+        <item> Kentucky fried Chicken will give you magic powers </item>
+        <item> Snoop Dogg is your brother </item>
+        <item> Kaley Cuocco is your soul mate </item>
+        <item> Marry a Klingon </item>
+        <item> Lemme is God </item>
+        <item> Rob a Bank with a rubber chicken </item>
+        <item> katy Perry is waiting for you at home</item>
+        <item> The A Team comes when you call</item>
+        <item> Britney spears is your love slave </item>
+        <item> Start a Cult called Programmers anonymous </item>
+    </string-array>
+
+</resources>
